@@ -203,6 +203,7 @@ body{
     .grid-section{
         grid-template-columns: 100px 1fr;
         grid-gap: 10px;
+        margin: 5%;
     }
 
     .animais-lista{
