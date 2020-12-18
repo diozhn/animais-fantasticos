@@ -25,4 +25,3 @@ export default function initModal() {
     containerModal.addEventListener("click", cliqueForaDoModal);
   }
 }
-initModal();

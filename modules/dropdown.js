@@ -18,4 +18,3 @@ function handleClick(event) {
   });
 }
 }
-initDropDown();
