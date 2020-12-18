@@ -1,6 +1,6 @@
-# Title / Repository Name
-Animais Fantásticos - Fantastic Animals
-## About / Synopsis
+# Animais Fantasticos
+Fantastic Animals
+## Sobre / About
 Animais Fantásticos é um projeto que auxilia em estudos de javascript para iniciantes, o repositório disponibiliza funções simples de efeitos no dom separadas em módulos para facilitar a manutenção e leitura do código.
 Este site é feito no curso de javascript da Origamid. Você pode acessar o site da Origamid em https://www.origamid.com/
 English:
@@ -13,10 +13,8 @@ This website is made in the Origamid javascript course. You can access the Origa
 
 ## Table of contents
 
-Use for instance <https://github.com/ekalinin/github-markdown-toc>:
-
-> * [Title / Repository Name](#title--repository-name)
->   * [About / Synopsis](#about--synopsis)
+> * [Title / Repository Name](#animais--fantasticos)
+>   * [About / Synopsis](#sobre--about)
 >   * [Table of contents](#table-of-contents)
 >   * [Usage](#usage)
 >     * [Requirements](#requirements)
