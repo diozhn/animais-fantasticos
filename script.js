@@ -10,8 +10,6 @@ import initFuncionamento from './modules/funcionamento.js';
 import initFetchAnimais from './modules/fetch-animais.js';
 import initFetchBitcoin from './modules/fetch-bitcoin.js';
 
-
-
 initTabNav();
 initAccordeon();
 initScrollSuave();

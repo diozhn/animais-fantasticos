@@ -1,0 +1,24 @@
+{
+  "name": "animais-fantasticos",
+  "version": "1.0.0",
+  "description": "Fantastic Animals\r ## Sobre / About\r Animais Fantásticos é um projeto que auxilia em estudos de javascript para iniciantes, o repositório disponibiliza funções simples de efeitos no dom separadas em módulos para facilitar a manutenção e leitura do código.\r Este site é feito no curso de javascript da Origamid. Você pode acessar o site da Origamid em https://www.origamid.com/\r English:\r Fantastic Animals is a project that helps in javascript studies for beginners, the repository provides simple functions of effects in the gift separated in modules to facilitate the maintenance and reading of the code.\r This website is made in the Origamid javascript course. You can access the Origamid website at https://www.origamid.com/",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diozhn/animais-fantasticos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diozhn/animais-fantasticos/issues"
+  },
+  "homepage": "https://github.com/diozhn/animais-fantasticos#readme",
+  "devDependencies": {
+    "eslint": "^7.16.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
