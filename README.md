@@ -22,7 +22,9 @@ This website is made in the Origamid javascript course. You can access the Origa
 >   * [About Nuxeo](#about-nuxeo)
 
 ## Usage
-Para usar o Animais Fantásticos basta ter o Live Server instalado e usar o GoLive do VSC.
+Primeiramente clone o repositório usando $git clone https://github.com/diozhn/animais-fantasticos.git
+Em seguida abra o terminal e instale as dependências do projeto usando $npm install
+Agora é só aproveitar o projeto como bem entender ^^
 
 ### Requirements
 Visual Studio Code
